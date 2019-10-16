@@ -1,5 +1,5 @@
 # TAMIDS Data Science Webinar Series
-The Texas A&M Institute of Data Science hosts a series of five TAMIDS Data Science Webinars between Oct 15 and Oct 29, 2019. 
+The Texas A&M Institute of Data Science hosts a series of five Data Science Webinars between Oct 15 and Oct 29, 2019. 
 
 The webinars introduce the fundamentals of Data Science through hands-on computation with python and Jupyter notebooks. The webinars are open to students, faculty, researchers and other employees of the Texas A&M University system.
 
